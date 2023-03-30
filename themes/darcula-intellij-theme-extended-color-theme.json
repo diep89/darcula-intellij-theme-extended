@@ -728,10 +728,10 @@
   "semanticTokenColors": {
     "function": "#FFC66D",
     "keyword": {
-      "foreground": "#CC7832", // naranja-primary
-      "fontStyle": "" // no remover
+      "foreground": "#CC7832",
+      "fontStyle": ""
     },
-    "numbers": "#6897BB", // celeste-primary
+    "numbers": "#6897BB",
     "*.importDeclaration": "#A9B7C6",
     "interface": "#A9B7C6",
     "parameter": "#CC9E57",

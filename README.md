@@ -1,4 +1,4 @@
-# Darcula IntelliJ Theme v2 README
+# Darcula IntelliJ Theme Extended README
 
 JetBrain's IntelliJ IDEA inspired extension, built on top of Minh Tri Nguyen's Darcula IntelliJ Theme.
 

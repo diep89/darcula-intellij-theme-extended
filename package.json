@@ -2,7 +2,7 @@
   "name": "darcula-intellij-theme-extended",
   "displayName": "Darcula IntelliJ Theme Extended",
   "description": "JetBrain's IntelliJ IDEA inspired theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.76.0"
   },

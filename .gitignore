@@ -1,7 +1,5 @@
 node_modules
 *.vsix
-vsc-extension-quickstart.md
-.vscode/** 
-.vscode-test/** 
-.gitignore 
+.vscode/**
+.vscode-test/**
 vsc-extension-quickstart.md

@@ -12,12 +12,4 @@ All notable changes to the "darcula-intellij-theme-extended" extension will be d
 
 ## [1.0.1] - 2023-03-29
 
-- Test version, fixing colors
-
-## [1.0.2] - 2023-03-29
-
-- Test version, fixing colors
-
-## [1.0.3] - 2023-03-29
-
-- Colors fixed
+- Fixed changelog

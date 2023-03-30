@@ -1,0 +1,23 @@
+{
+  "name": "darcula-intellij-theme-extended",
+  "displayName": "Darcula IntelliJ Theme Extended",
+  "description": "JetBrain's IntelliJ IDEA inspired theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula IntelliJ Theme Extended",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-intellij-theme-extended-color-theme.json"
+      }
+    ]
+  },
+  "repository": { "url": "https://github.com/diep89/darcula-intellij-theme-extended" },
+  "publisher": "DiegoPerri"
+}
